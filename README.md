@@ -1,5 +1,13 @@
 # StegaHide Lab
 
+> ⚠️ **Projet personnel — Personal project**
+>
+> 🇫🇷 Ce dépôt est un **projet personnel**. Bien qu'il soit public, il n'est **pas destiné à un usage général** : il n'y a aucune garantie de support, de maintenance, de stabilité d'API ni de prise en compte des contributions ou des issues. Le code est partagé à titre informatif et pédagogique. Utilisez-le à vos propres risques.
+>
+> 🇬🇧 This repository is a **personal project**. Although it is public, it is **not intended for general use**: there is no guarantee of support, maintenance, API stability, or that contributions or issues will be reviewed. The code is shared for informational and educational purposes. Use at your own risk.
+
+---
+
 A Python toolkit for **hiding** and **extracting** secret messages inside PNG images using the
 **Least Significant Bit (LSB)** steganography technique, with optional **AES encryption** (Fernet)
 before embedding.
